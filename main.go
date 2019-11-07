@@ -9,4 +9,5 @@ func addData(a,b int )int {
 func main() {
 	sum := addData(3,4)
 	fmt.Println("两个数的和：",sum)
+	Calc()
 }
