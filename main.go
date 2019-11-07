@@ -12,5 +12,9 @@ func main() {
 	Calc()
 
 	//
+
 	fmt.Println("修改了chi/div的数据")
+
+	fmt.Println("切换到duck/multi,修改数据！")
+
 }
