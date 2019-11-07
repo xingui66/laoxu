@@ -10,4 +10,7 @@ func main() {
 	sum := addData(3,4)
 	fmt.Println("两个数的和：",sum)
 	Calc()
+
+	//
+	fmt.Println("切换到duck/multi,修改数据！")
 }
